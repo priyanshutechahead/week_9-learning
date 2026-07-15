@@ -3,6 +3,8 @@
 - it is a structured way to document what went wrong after a system failure, why it happened and most importantly how to prevent it from happening again.
 - It is a "blameless" process, meaning the focus is on fixing broken processes and technical gaps rather than finding someone to blame.
 
+[template link]{https://github.com/dastergon/postmortem-templates}
+
 ## The Core Components
 - Executive Summary: A brief, high-level overview of the incident. What happened, how long it lasted, and who was affected?
 - Impact: A clear description of the damage. Did users experience downtime, data loss, or slow performance? How many users were impacted?
