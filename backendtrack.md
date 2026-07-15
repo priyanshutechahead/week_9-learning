@@ -17,3 +17,5 @@
 ## Why Use a Template?
 - Using a consistent format makes it easier for teams to spot patterns over time. If you notice the same "root cause" appearing in multiple postmortems, it highlights a systemic issue in your architecture or workflow that needs a deeper investment to solve.
 - Is there a specific type of incident you are currently documenting, or would you like a blank template you can copy and paste for your next report?
+
+[HTTP status code](https://www.geeksforgeeks.org/computer-networks/what-are-http-status-codes/)
