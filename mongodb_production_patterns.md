@@ -2,9 +2,9 @@
 
 | Pattern | Simple Goal | Real-life Analogy | 
 |:---|:---|:---|
-|Versioning | "Keep a history of changes. | "Microsoft Word " Track Changes | 
-| Soft Delete | "Hide it instead of destroying it." | Computer Recycle Bin | 
-| Audit Trail | "Record who did what." | A Security Camera / Logbook |
+|Versioning | "Keep a history of changes." (track evolution) | "Microsoft Word " Track Changes | 
+| Soft Delete | "Hide it instead of destroying it."(prevent permanent loss) | Computer Recycle Bin | 
+| Audit Trail | "Record who did what."(compliance & accountability) | A Security Camera / Logbook |
 
 ### 1. Versioning: "The Undo Button"
 - Imagine you are writing a document. Instead of just saving over the old file, you save a new copy every time you make a major change (Version 1, Version 2, etc.).
